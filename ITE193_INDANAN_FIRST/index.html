@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ITE193 Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+        <img src="logo.png" class="logo">
+
+        <h2>ITE193 Portal</h2>
+        <p class="sub">Sign in to continue</p>
+
+        <input type="text" id="username" placeholder="Username">
+        <input type="password" id="password" placeholder="Password">
+
+        <label class="show">
+            <input type="checkbox" id="showPass"> Show Password
+        </label>
+
+        <p id="message"></p>
+
+        <button class="primary" onclick="login()">Login</button>
+        <button class="danger" onclick="exitApp()">Exit</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
