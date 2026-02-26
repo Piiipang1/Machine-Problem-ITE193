@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="navbar">
+        <div class="nav-left">
+            <span class="brand">ITE 193 Dashboard</span>
+            <span class="divider">|</span>
+            <span class="user-display">User: <span id="profileUser"></span></span>
+        </div>
+
+        <div class="nav-right">
+            <div class="dropdown">
+                <button class="menu-btn">Settings ▾</button>
+                <div class="dropdown-content">
+                    <a href="#" onclick="toggleChangePass()">Change Password</a>
+                    <a href="#" onclick="logout()">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="change-box" id="changeBox">
+        <h3>Change Password</h3>
+
+        <input type="password" id="oldPass" placeholder="Old Password">
+        <input type="password" id="newPass" placeholder="New Password">
+        <input type="password" id="confirmPass" placeholder="Confirm New Password">
+
+        <p id="passMessage"></p>
+
+        <button class="primary" onclick="changePassword()">Update Password</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
