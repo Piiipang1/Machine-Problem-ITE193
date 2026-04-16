@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "firstName": "Sai",
+      "middleName": "Cruz",
+      "lastName": "Indanan",
+      "address": "123 Rizal St., Davao City",
+      "email": "sai.indanan@ite193.edu",
+      "username": "sai_indanan",
+      "password": "Sai@1234"
+    },
+    {
+      "firstName": "Maria",
+      "middleName": "Santos",
+      "lastName": "Reyes",
+      "address": "456 Mabini Ave., Cebu City",
+      "email": "maria.reyes@ite193.edu",
+      "username": "maria_reyes",
+      "password": "Maria@1234"
+    },
+    {
+      "firstName": "Juan",
+      "middleName": "dela",
+      "lastName": "Cruz",
+      "address": "789 Bonifacio Blvd., Manila",
+      "email": "juan.cruz@ite193.edu",
+      "username": "juan_cruz",
+      "password": "Juan@1234"
+    },
+    {
+      "firstName": "Ana",
+      "middleName": "Lim",
+      "lastName": "Garcia",
+      "address": "321 Quezon Road, Iloilo City",
+      "email": "ana.garcia@ite193.edu",
+      "username": "ana_garcia",
+      "password": "Ana@1234"
+    },
+    {
+      "firstName": "Carlo",
+      "middleName": "Bautista",
+      "lastName": "Fernandez",
+      "address": "654 Luna St., Zamboanga City",
+      "email": "carlo.fernandez@ite193.edu",
+      "username": "carlo_fernandez",
+      "password": "Carlo@1234"
+    },
+    {
+      "firstName": "Lea",
+      "middleName": "Mangahas",
+      "lastName": "Tolentino",
+      "address": "987 Del Pilar St., Baguio City",
+      "email": "lea.tolentino@ite193.edu",
+      "username": "lea_tolentino",
+      "password": "Lea@1234"
+    }
+  ]
+}
