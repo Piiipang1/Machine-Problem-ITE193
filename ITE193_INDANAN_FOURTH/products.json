@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "code": "SS001",
+      "name": "Lucky Me Pancit Canton",
+      "quantity": 50,
+      "unitPrice": 12.00,
+      "image": "🍜"
+    },
+    {
+      "code": "SS002",
+      "name": "Maggi Magic Sarap (8g)",
+      "quantity": 100,
+      "unitPrice": 6.00,
+      "image": "🧂"
+    },
+    {
+      "code": "SS003",
+      "name": "Mang Tomas All-Around Sarsa",
+      "quantity": 30,
+      "unitPrice": 25.00,
+      "image": "🫙"
+    },
+    {
+      "code": "SS004",
+      "name": "Sky Flakes Crackers",
+      "quantity": 60,
+      "unitPrice": 8.00,
+      "image": "🍘"
+    },
+    {
+      "code": "SS005",
+      "name": "Nescafe 3-in-1 (25g)",
+      "quantity": 80,
+      "unitPrice": 10.00,
+      "image": "☕"
+    },
+    {
+      "code": "SS006",
+      "name": "Zest-O Orange Juice (250ml)",
+      "quantity": 45,
+      "unitPrice": 15.00,
+      "image": "🧃"
+    },
+    {
+      "code": "SS007",
+      "name": "Bear Brand Powdered Milk (33g)",
+      "quantity": 70,
+      "unitPrice": 18.00,
+      "image": "🥛"
+    },
+    {
+      "code": "SS008",
+      "name": "Chippy Corn Chips",
+      "quantity": 55,
+      "unitPrice": 14.00,
+      "image": "🍿"
+    },
+    {
+      "code": "SS009",
+      "name": "Champion Detergent Bar",
+      "quantity": 40,
+      "unitPrice": 20.00,
+      "image": "🧼"
+    },
+    {
+      "code": "SS010",
+      "name": "Safeguard Soap (55g)",
+      "quantity": 35,
+      "unitPrice": 30.00,
+      "image": "🛀"
+    },
+    {
+      "code": "SS011",
+      "name": "San Miguel Beer (330ml)",
+      "quantity": 24,
+      "unitPrice": 55.00,
+      "image": "🍺"
+    },
+    {
+      "code": "SS012",
+      "name": "C2 Green Tea (230ml)",
+      "quantity": 48,
+      "unitPrice": 20.00,
+      "image": "🍵"
+    },
+    {
+      "code": "SS013",
+      "name": "Marlboro Red (pack)",
+      "quantity": 20,
+      "unitPrice": 120.00,
+      "image": "🚬"
+    },
+    {
+      "code": "SS014",
+      "name": "Fisherman's Friend (10g)",
+      "quantity": 90,
+      "unitPrice": 18.00,
+      "image": "🍬"
+    },
+    {
+      "code": "SS015",
+      "name": "Boy Bawang Cornick",
+      "quantity": 65,
+      "unitPrice": 22.00,
+      "image": "🧄"
+    },
+    {
+      "code": "SS016",
+      "name": "Rebisco Crackers",
+      "quantity": 50,
+      "unitPrice": 8.00,
+      "image": "🍪"
+    },
+    {
+      "code": "SS017",
+      "name": "Purefoods Corned Beef (150g)",
+      "quantity": 30,
+      "unitPrice": 52.00,
+      "image": "🥫"
+    },
+    {
+      "code": "SS018",
+      "name": "Milo Powder (22g)",
+      "quantity": 75,
+      "unitPrice": 12.00,
+      "image": "🍫"
+    },
+    {
+      "code": "SS019",
+      "name": "Cobra Energy Drink (240ml)",
+      "quantity": 36,
+      "unitPrice": 28.00,
+      "image": "⚡"
+    },
+    {
+      "code": "SS020",
+      "name": "Eden Cheese (165g)",
+      "quantity": 25,
+      "unitPrice": 65.00,
+      "image": "🧀"
+    },
+    {
+      "code": "SS021",
+      "name": "Del Monte Pineapple Juice (240ml)",
+      "quantity": 42,
+      "unitPrice": 28.00,
+      "image": "🍍"
+    },
+    {
+      "code": "SS022",
+      "name": "Regent Cheese Rings",
+      "quantity": 60,
+      "unitPrice": 8.00,
+      "image": "🥨"
+    },
+    {
+      "code": "SS023",
+      "name": "Century Tuna (155g)",
+      "quantity": 38,
+      "unitPrice": 38.00,
+      "image": "🐟"
+    }
+  ]
+}
